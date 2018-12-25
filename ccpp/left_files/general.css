@@ -1,0 +1,126 @@
+BODY {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f6f6f6
+}
+TD {
+	FONT-SIZE: 13px; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+TH {
+	FONT-SIZE: 13px; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+INPUT {
+	FONT-SIZE: 13px; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+SELECT {
+	FONT-SIZE: 13px; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+TEXTAREA {
+	FONT-SIZE: 13px; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif
+}
+A:link {
+	FONT-SIZE: 13px; COLOR: #0240a3; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 13px; COLOR: #0240a3; TEXT-DECORATION: none
+}
+A:active {
+	FONT-SIZE: 13px; COLOR: #0240a3; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0240a3; TEXT-DECORATION: underline
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+LEGEND {
+	WHITE-SPACE: nowrap
+}
+#loader {
+	MARGIN-LEFT: auto; WIDTH: 420px; MARGIN-RIGHT: auto
+}
+#loader TD {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #ffffff; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+#loader P {
+	BORDER-RIGHT: #6e89dd 3px solid; PADDING-RIGHT: 10px; BORDER-TOP: #6e89dd 3px solid; PADDING-LEFT: 10px; BACKGROUND: #eef0fc; PADDING-BOTTOM: 10px; MARGIN: 0px; BORDER-LEFT: #6e89dd 3px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #6e89dd 3px solid
+}
+#loader IMG {
+	FLOAT: left; MARGIN-RIGHT: 12px
+}
+#loader STRONG {
+	DISPLAY: block; MARGIN-BOTTOM: 3px
+}
+#loaderContainer {
+	LEFT: 0px; WIDTH: 100%; POSITION: absolute; TOP: 0px; HEIGHT: 100%; ; HEIGHT: expression(document.documentElement.clientHeight+'px')
+}
+#loaderContainer TD {
+	BACKGROUND-IMAGE: url(../images/semi-transparent.gif); VERTICAL-ALIGN: top; PADDING-TOP: 150px; TEXT-ALIGN: center
+}
+#loaderContainer TD TD {
+	PADDING-TOP: 3px; TEXT-ALIGN: left
+}
+.bgontab {
+	VERTICAL-ALIGN: middle; BACKGROUND-COLOR: #c1c8d2; TEXT-ALIGN: center
+}
+.bgofftab {
+	VERTICAL-ALIGN: middle; BACKGROUND-COLOR: #8491a4; TEXT-ALIGN: center
+}
+.bgontabbottom {
+	COLOR: #000000; BACKGROUND-COLOR: #f9f9f9
+}
+.bgofftabbottom {
+	COLOR: #666666; BACKGROUND-COLOR: #dfe2e7
+}
+.bgontabbottommid {
+	BORDER-LEFT-COLOR: white; BORDER-BOTTOM-COLOR: #f9f9f9; COLOR: #000000; BORDER-TOP-STYLE: solid; BORDER-TOP-COLOR: #cccccc; BORDER-RIGHT-STYLE: solid; BORDER-LEFT-STYLE: solid; BACKGROUND-COLOR: #f9f9f9; BORDER-RIGHT-COLOR: white; BORDER-BOTTOM-STYLE: solid
+}
+.bgofftabbottommid {
+	BORDER-LEFT-COLOR: white; BORDER-BOTTOM-COLOR: #cccccc; COLOR: #666666; BORDER-TOP-STYLE: solid; BORDER-TOP-COLOR: #dfe2e7; BORDER-RIGHT-STYLE: solid; BORDER-LEFT-STYLE: solid; BACKGROUND-COLOR: #dfe2e7; BORDER-RIGHT-COLOR: white; BORDER-BOTTOM-STYLE: solid
+}
+.ontabbottom {
+	COLOR: #000000
+}
+.offtabbottom {
+	COLOR: #666666
+}
+.bglt {
+	BACKGROUND-COLOR: #f9f9f9
+}
+.gen {
+	FONT-SIZE: 12px
+}
+.genmed {
+	FONT-SIZE: 11px
+}
+.gensmall {
+	FONT-SIZE: 10px
+}
+.gen {
+	COLOR: #000000
+}
+.genmed {
+	COLOR: #000000
+}
+.gensmall {
+	COLOR: #000000
+}
+A.gen {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.genmed {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.gensmall {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.gen:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+A.genmed:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+A.gensmall:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+.helpline {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BACKGROUND-COLOR: #dee3e7; BORDER-BOTTOM-STYLE: none
+}

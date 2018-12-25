@@ -1,0 +1,84 @@
+BODY {
+	BACKGROUND-COLOR: #6e89dd
+}
+.navOpened {
+	BACKGROUND-COLOR: #ffffff
+}
+.navClosed {
+	BACKGROUND-COLOR: #ffffff
+}
+.navOpened .navTitle .titleText {
+	COLOR: #215dc6
+}
+.navOpened .navTitleOver .titleText {
+	COLOR: #428eff
+}
+.navClosed .navTitle .titleText {
+	COLOR: #215dc6
+}
+.navClosed .navTitleOver .titleText {
+	COLOR: #428eff
+}
+DIV.tree {
+	BACKGROUND-COLOR: #d6dff7
+}
+.nodeActive .name {
+	BACKGROUND-COLOR: #3878bf
+}
+#navLayout .nodeActive .name A {
+	COLOR: white
+}
+#navLayout .nodeActive .name A:hover {
+	COLOR: white
+}
+#navLayout .nodeActive .name A:visited {
+	COLOR: white
+}
+#navLayout .nodeActive .name A:active {
+	COLOR: white
+}
+#navLayout .name A {
+	COLOR: #215dc6
+}
+#navLayout .name A:visited {
+	COLOR: #215dc6
+}
+#navLayout .name A:active {
+	COLOR: #215dc6
+}
+#navLayout .name A:hover {
+	COLOR: #428eff
+}
+#contexthelp {
+	BORDER-TOP: #a7b8eb 1px solid; FONT-SIZE: 13px; MIN-HEIGHT: 100px; MARGIN: 0px; COLOR: #555555; PADDING-TOP: 5px; HEIGHT: 100px; TEXT-ALIGN: left
+}
+HTML > BODY #contexthelp {
+	HEIGHT: auto
+}
+#contexthelp {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 11px; PADDING-BOTTOM: 0px; PADDING-TOP: 5px; BACKGROUND-COLOR: #d6dff7
+}
+#userInfo {
+	MARGIN: 0px 15px 0px 10px; COLOR: #555555; PADDING-TOP: 2px; TEXT-ALIGN: left
+}
+#userInfo .name {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#poweredBy A:link {
+	FONT-SIZE: 11px; COLOR: #bcc9f0; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+#poweredBy A:visited {
+	FONT-SIZE: 11px; COLOR: #bcc9f0; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+#copyright A:link {
+	FONT-SIZE: 11px; COLOR: #bcc9f0; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+#copyright A:visited {
+	FONT-SIZE: 11px; COLOR: #bcc9f0; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+#poweredBy {
+	PADDING-BOTTOM: 5px; VERTICAL-ALIGN: middle
+}
+#copyright {
+	BORDER-TOP: #9eb1e9 1px solid; MARGIN: 5px 0px; PADDING-TOP: 5px
+}

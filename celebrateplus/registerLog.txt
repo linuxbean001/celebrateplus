@@ -1,0 +1,169 @@
+2017-05-02 11:57:58: INSERT INTO registerLog SET request='Array
+(
+    [invitation_design_style] => 1
+    [title] => New Year party celebration
+    [loc_street] => 
+    [loc_name] => 
+    [loc_suite] => 
+    [sdate] => 
+    [stime] => 
+    [loc_city] => 
+    [edate] => 
+    [etime] => 
+    [loc_state] => 
+    [loc_zip] => 
+    [loc_country] => 
+    [map_link] => 
+    [max_cap] => 
+    [description121] => You are invited!
+    [invitees] => 
+    [facebookType] => Facebookpost
+    [funding] => No
+    [fund_amt] => 
+    [max_don_amt] => 
+    [fund_end_date] => 
+    [paypalid] => 
+    [df_friends] => 
+    [df_bronze] => 
+    [df_silver] => 
+    [df_gold] => 
+    [df_platinum] => 
+    [df_benefactor] => 
+    [email] => jyotsna.jandhyala@gmail.com
+    [fname] => Jyo
+    [lname] => Jandhyala
+    [country] => United States of America
+    [state] => Texas
+    [phone] => 
+    [save_event] => Launch My Event
+    [submitted] => submitted
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'597 622 687 582 632 582 667\',email=\'jyotsna.jandhyala@gmail.com\',fname=\'Jyo\',lname=\'Jandhyala\',phone=\'\',opted_email=\'\',username=\'\',state=\'Texas\',country=\'United States of America\''  
+
+2017-05-08 17:36:05: INSERT INTO registerLog SET request='Array
+(
+    [email] => divakar@innofoundry.com
+    [opted_email] => true
+    [submit_x] => 49
+    [submit_y] => 7
+    [fname] => Divakar
+    [lname] => Jandhyala
+    [country] => United States of America
+    [state] => Texas
+    [phone] => 5127511182
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'597 622 687 582 632 582 667 337 337 342\',email=\'divakar@innofoundry.com\',fname=\'Divakar\',lname=\'Jandhyala\',phone=\'5127511182\',opted_email=\'true\',username=\'\',state=\'Texas\',country=\'United States of America\''  
+
+2017-05-14 11:31:09: INSERT INTO registerLog SET request='Array
+(
+    [submitted] => submitted
+    [fund_end_date] => 84npmcbVVz
+    [personal_photo] => 
+    [etime] => 1mqIUXThKb
+    [facebookType] => Facebookmessage
+    [edate] => osqQABJX
+    [df_platinum] => p7Y3SjVt
+    [image_path] => 
+    [max_cap] => nB3pc0cAtJ
+    [loc_street] => CGbKHdU2hTDk
+    [country] => United States of America
+    [loc_country] => zmIz0KbEBlM8
+    [max_don_amt] => S0LCEL9Z477s
+    [df_friends] => HsGMCHgTeU
+    [loc_zip] => JBW42bldQk
+    [map_link] => ABi5RdQL
+    [funding] => No
+    [df_silver] => 2uWuSjNJPxJ
+    [sdate] => s1zt6NdDFtZ
+    [loc_suite] => IJxRT0cL
+    [df_gold] => 6X84XPrZl
+    [lname] => Marty
+    [loc_city] => bMQXkMme8Pw
+    [df_bronze] => TpaEJfdpg
+    [email] => rt9hezpdm@gmail.com
+    [fname] => Marty
+    [loc_state] => P6hDzotr9og
+    [fund_amt] => 7rTwPXMHm
+    [invitation_design_style] => 10
+    [phone] => D5S0Kg7Aeo
+    [df_benefactor] => ZYnc642Mk
+    [description121] => Henrik &#8211; Rest assured I went back and read your comment, and it was decent as well. I basically tossed aside even coedsinring the ones that included childish remarks.
+    [paypalid] => 3e28GBJPPFX
+    [stime] => Ek8WBcaW75
+    [invitees] => Henrik &#8211; Rest assured I went back and read your comment, and it was decent as well. I basically tossed aside even coedsinring the ones that included childish remarks.
+    [loc_name] => Marty
+    [save_event] => Launch My Event
+    [title] => Henrik &#8211; Rest 
+    [state] => Oklahoma
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'667 677 472 367 627 447 442 682\',email=\'rt9hezpdm@gmail.com\',fname=\'Marty\',lname=\'Marty\',phone=\'D5S0Kg7Aeo\',opted_email=\'\',username=\'\',state=\'Oklahoma\',country=\'United States of America\''  
+
+2017-06-27 09:58:59: INSERT INTO registerLog SET request='Array
+(
+    [email] => gaurav@technource.com
+    [submit_x] => 96
+    [submit_y] => 22
+    [fname] => Gaurav
+    [lname] => Bhattacharya
+    [country] => United States of America
+    [state] => California
+    [phone] => 
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'342 347 352 357 362 367 372 377\',email=\'gaurav@technource.com\',fname=\'Gaurav\',lname=\'Bhattacharya\',phone=\'\',opted_email=\'\',username=\'\',state=\'California\',country=\'United States of America\''  
+
+2017-06-27 10:17:56: INSERT INTO registerLog SET request='Array
+(
+    [email] => sathies@stallioni.com
+    [opted_email] => true
+    [submit_x] => 55
+    [submit_y] => 18
+    [fname] => sathieskumar
+    [lname] => a
+    [country] => United States of America
+    [state] => Illinois
+    [phone] => 
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'677 602 672 677 342 347 352\',email=\'sathies@stallioni.com\',fname=\'sathieskumar\',lname=\'a\',phone=\'\',opted_email=\'true\',username=\'\',state=\'Illinois\',country=\'United States of America\''  
+
+2017-06-28 05:42:06: INSERT INTO registerLog SET request='Array
+(
+    [invitation_design_style] => 10
+    [title] => sfsdfsa
+    [loc_street] => 
+    [loc_name] => 
+    [loc_suite] => 
+    [sdate] => 
+    [stime] => 
+    [loc_city] => 
+    [edate] => 
+    [etime] => 
+    [loc_state] => 
+    [loc_zip] => 
+    [loc_country] => 
+    [map_link] => 
+    [max_cap] => 
+    [description121] => fsfsa fsadfa
+    [invitees] => 
+    [facebookType] => Facebookpost
+    [funding] => No
+    [fund_amt] => 
+    [max_don_amt] => 
+    [fund_end_date] => 
+    [paypalid] => 
+    [df_friends] => 
+    [df_bronze] => 
+    [df_silver] => 
+    [df_gold] => 
+    [df_platinum] => 
+    [df_benefactor] => 
+    [email] => 
+    [fname] => 
+    [lname] => 
+    [country] => 
+    [state] => 
+    [phone] => 
+    [save_event] => Launch My Event
+    [submitted] => submitted
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'\',email=\'\',fname=\'\',lname=\'\',phone=\'\',opted_email=\'\',username=\'\',state=\'\',country=\'\''  
+

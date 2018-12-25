@@ -1,0 +1,41 @@
+.reg_wid_form_main{width: 100%;}
+.reg_wid_form_left,.reg_wid_form_right{width: 50%;}
+
+@media only screen and (max-width: 1024px) and (min-width: 600px)  {
+
+    .middle_inner {
+    width: 100%;
+    }
+    .tab_box_main,.tab_box_title_main,.inner_title_bg,.tab_box_bg_main,.myacc_menu_main,.myacc_menu{width: 100%;}
+    .tab_box_bg_inner_regconf,.tab_box_bg_inner_left_text_regconf,.tab_box_bg_inner{width: 100%;}
+    .myacc_menu li a {font-size: 8px;}
+    .acc_come_link_main{width: 100%;}
+    .acc_come_link {width: 100%;padding: 0 0 0 0px;}
+    .acc_come_link li {width: 50%}
+    .search_eve_main,.search_eve_form_input{width: 100%;}
+     .reg_wid_form_left,.reg_wid_form_right{width: 100%;}
+    .search_eve_name{width: 30%}
+     .find_btn_main {width: 100%;}
+     .events_page_main{width: 100%;}
+    
+}
+
+@media only screen and (max-width: 599px) and (min-width: 320px)  {
+    .middle_inner {
+    width: 100%;
+    }
+    .tab_box_main,.tab_box_title_main,.inner_title_bg,.tab_box_bg_main,.myacc_menu_main,.myacc_menu{width: 100%;}
+    .tab_box_bg_inner_regconf,.tab_box_bg_inner_left_text_regconf,.tab_box_bg_inner{width: 100%;}
+    .myacc_menu li a {font-size: 8px;padding: 0 5px 0px 5px;}
+    .acc_come_link_main{width: 100%;}
+    .acc_come_link {width: 100%;padding: 0 0 0 0px;}
+    .acc_come_link li {width: 100%}
+    .search_eve_main,.search_eve_form_input{width: 100%;}
+    .search_eve_name{width: 30%}
+     fieldset .grid-6-12 {width: 100%;}
+     .myacc_menu {height: auto;}
+     .reg_wid_form_left,.reg_wid_form_right{width: 100%;}
+     .find_btn_main {width: 100%;}
+     .events_page_main{width: 100%;}
+
+    }

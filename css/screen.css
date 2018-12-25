@@ -1,0 +1,58 @@
+article, aside, audio, canvas, details, figcaption, figure, footer, header, hgroup, mark, meter, nav, output, progress, section, summary, time, video {
+	display:block;
+}
+/*Global Reset
+*********************************************************/
+
+#masthead {
+	width:100%;
+	background: url(/template/theme/default/image/bg-masthead.png) repeat-x 0 0;
+	overflow:hidden;
+	padding-left:20px;
+}
+#mastheadouter {
+	background:url(/template/theme/default/image/bg-masthead-outer.png) repeat-y 0 0;
+}
+#masthead .container {
+	position:relative;/* background:url(/template/theme/default/image/bg-masthead-container.jpg) no-repeat right 0; */
+}
+#carousel {
+	position:relative;
+	overflow:hidden;
+	width:1000px;
+	height:330px;
+}
+.carouselinner {
+	position:absolute;
+	left:0;
+	top:0;
+}
+.panel {
+	float:left;
+	overflow:hidden;
+	margin:0 !important;
+	height:330px !important;
+	width:1000px;
+}
+#carousel-paginate {
+	position:absolute;
+	margin-left:940px;
+	margin-top:-30px;
+}
+#carousel-paginate img {
+	margin-left:5px;
+}
+#masthead h1, #masthead h2 {
+	margin-top:70px;
+	font-family:"museo-sans-1", "museo-sans-2", "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+	font-weight:475;
+	color:#fff;
+	font-size:1.9em;
+	line-height:1.6em;
+	width:400px;
+}
+#masthead nav {
+	position:absolute;
+	bottom:20px;
+	z-index:99;
+}

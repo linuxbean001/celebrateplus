@@ -1,0 +1,330 @@
+/* drgillianclub.com stylesheet */
+
+body {
+	margin: 0 auto;
+	padding: 0;
+	border: 0;
+	text-align: center;
+	
+	background:  #ffffff url("../images/background.jpg") repeat-x;
+}
+body *{
+outline:none;
+}
+td,tr{
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.3em;
+}
+
+#wrapper {
+	text-align: left;
+	margin: 0px auto;
+	padding: 0px;
+	border:0;
+	width:100%;
+}
+#wrapper1 {
+	text-align: left;
+	margin: 0px auto;
+	padding: 0px;
+	border:0;
+	width:705px;
+}
+			
+	
+	
+#nav {
+	float: left;
+	width: 651px;
+	list-style: none;
+	font-weight: bold;
+	padding: 0px 0 0px 0px ;
+	border: solid white;
+	border-width: 0px 0;
+	text-align: left;
+	z-index: 2;
+	margin: 0 0 0 0;
+	height: 25px;
+	background-color: white;
+	background: url("../images/background_nav.gif") no-repeat;
+}
+
+#nav ul {
+	float: left;
+	width: 792px;
+	list-style: none;
+	background: #B9E842;
+	font-weight: bold;
+	padding: 0;
+	border: solid white;
+	border-width: 0px 0;
+	margin: 0 0 0 0;
+	text-align: left;
+	z-index: 3;
+	
+}
+
+
+#nav a {
+	display: block;
+	width: 792px;
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff;
+	font-weight:normal;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+	padding: 6px 0 4px 0 ;
+}
+
+#nav a:hover {
+	
+	color: #93C909;
+	}
+
+#nav li {
+	float: left;
+	padding: 0;
+	text-align: left;
+}
+
+
+
+#nav li ul {
+	position: absolute;
+	left: -999em;
+	height: auto;
+	font-weight: normal;
+	border-width: 0.1em;
+	margin: 0;
+}
+
+#nav li li {
+	padding-right: 0px;
+}
+
+#nav li li a{
+	padding-right: 4px;
+	text-align: left;
+	font-size: 15px;
+	margin: 0 0 0 5px;
+}
+
+
+#nav li ul a {	
+}
+
+#nav li ul ul {
+	margin: -0.5em 0 0 100px;
+	
+}
+
+#nav li:hover ul ul, #nav li:hover ul ul ul, #nav li.sfhover ul ul, #nav li.sfhover ul ul ul {
+	left: -999em;
+	
+}
+
+#nav li:hover ul, #nav li li:hover ul, #nav li li li:hover ul, #nav li.sfhover ul, #nav li li.sfhover ul, #nav li li li.sfhover ul {
+	left: auto;
+	margin-left:16px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+
+
+  
+  
+/* horiz menu */
+#horiz-menu {
+	background: url(../images/menubg.gif) 0 0 no-repeat;
+	border-left: 0px solid #B89789;
+	border-right: 0px solid #B89789;
+	padding-bottom:0px;
+}
+
+
+#horiz-menu a {
+	color: #fff;
+}
+
+#horiz-menu li.active a {
+	color: #a4376d;
+}
+
+/*#horiz-menu ul li:hover,
+#horiz-menu ul li.sfHover,*/
+#horiz-menu ul ul {
+	background: #8f5a5d;
+}
+
+#horiz-menu ul li {
+
+
+	background-image:url(../images/menubg.png);
+background-repeat:no-repeat;
+}
+
+#horiz-menu ul li:hover a,
+#horiz-menu ul li.sfHover a {
+
+
+
+background-repeat:no-repeat;
+}
+
+#horiz-menu ul li:hover li:hover a,
+#horiz-menu ul li.sfHover li.sfHover a,
+#horiz-menu ul li:hover li:hover li:hover a,
+#horiz-menu ul li.sfHover li.sfHover li.sfHover a,
+#horiz-menu ul li:hover li:hover li:hover li:hover a,
+#horiz-menu ul li.sfHover li.sfHover li.sfHover li.sfHover a,
+#horiz-menu ul li:hover li:hover li:hover li:hover li:hover a,
+#horiz-menu ul li.sfHover li.sfHover li.sfHover li.sfHover li.sfHover a {
+background-image:none;
+	color: #000000;
+
+}
+
+#horiz-menu ul li:hover li a,
+#horiz-menu ul li.sfHover li a,
+#horiz-menu ul li:hover li:hover li a,
+#horiz-menu ul li.sfHover li.sfHover li a,
+#horiz-menu ul li:hover li:hover li:hover li a,
+#horiz-menu ul li.sfHover li.sfHover li.sfHover li a,
+#horiz-menu ul li:hover li:hover li:hover li:hover li a,
+#horiz-menu ul li.sfHover li.sfHover li.sfHover li.sfHover li a {
+	color: #fff;
+	background-image:none;
+}
+
+#horiz-menu ul ul li,
+#horiz-menu ul ul li:hover,
+#horiz-menu ul ul li.sfHover {
+	background: url(../images/dropdown-div.png) 0 100% repeat-x;
+}
+
+#horiz-menu a.daddy {
+	background: url(../images/dropdown-child.png) 100% 100% no-repeat;
+}
+
+
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+
+#horiz-menu {
+	height: 30px;
+}
+
+#horiz-menu ul.nav {
+	padding-left: 0px;
+}
+
+#horiz-menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0 0 0 0px;
+}
+
+#horiz-menu li {
+	background: none;
+	display: block;
+	float: left;
+	margin: 0;
+	margin-right: 0px;
+	padding: 0;
+}
+
+
+#horiz-menu a {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	display: block;
+	float: left;
+	line-height: 30px;
+	font-weight: normal;
+	font-size: 13px;
+	z-index:50px;
+	/*==text-indent:-1500px;==*/
+	margin:0px;
+	padding:0px;
+}
+
+#horiz-menu li li a {
+	font-size: 13px;
+	padding-left:18px;
+	padding-right:18px;
+}
+
+#horiz-menu a:hover {
+	text-decoration: none;
+}
+
+#horiz-menu li:hover,
+#horiz-menu li.sfHover {
+	background-image:url(../images/menubga.png);
+}
+
+.bg_1 {
+	background-image:url(../images/menu_11.jpg);
+	background-position: left top;
+	background-repeat:no-repeat;
+	text-align:center;
+}
+.bg_1:hover {
+	background-image:url(../images/menu_11-hover.jpg);
+	background-position: left top;
+	background-repeat:no-repeat;
+	text-align:center;
+}
+.bg_1_act {
+	background-image:url(../images/menu_11-hover.jpg);
+	background-position: left top;
+	background-repeat:no-repeat;
+	text-align:center;
+}
+#horiz-menu li span {
+	display: block;
+	float: left;
+	background-image:url(../images/menu_22.jpg);
+	background-position: right top;
+	background-repeat:no-repeat;
+	width:77px;
+	cursor:pointer;
+	text-align:center;
+	padding-right:7px;
+
+}
+#horiz-menu li span:hover {
+	display: block;
+	float: left;
+	background-image:url(../images/menu_22-hover.jpg);
+	background-position: right top;
+	background-repeat:no-repeat;
+	cursor:pointer;
+	text-align:center;
+	width:77px;
+	padding-right:7px;
+
+}
+#horiz-menu li b {
+	display: block;
+	float: left;
+	background-image:url(../images/menu_22-hover.jpg);
+	background-position: right top;
+	background-repeat:no-repeat;
+	cursor:pointer;
+	text-align:center;
+	width:77px;
+	padding-right:7px;
+
+}
+

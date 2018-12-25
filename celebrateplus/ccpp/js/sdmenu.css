@@ -1,0 +1,83 @@
+div.sdmenu {
+	width: 170px;
+	font-family: Arial, sans-serif;
+	font-size: 11px;
+	color: #fff;
+	font-weight:bold;	
+	border-bottom:1px solid #5286b4;
+}
+
+div.sdmenu div {
+	background: url(../images/left_menu_bg.jpg) repeat-x;
+	overflow: hidden;
+}
+div.sdmenu div:first-child {
+	background: url(../images/left_menu_bg.jpg) repeat-x;
+}
+div.sdmenu div.collapsed {
+	height: 27px;
+	border-bottom:1px solid #5287b3;
+}
+div.sdmenu div span {
+	display: block;
+	padding: 8px 12px;
+	font-weight: bold;
+	color: white;
+	cursor: pointer;
+}
+
+div.sdmenu div a {
+	padding: 5px 22px;
+	background: #0099e2;
+	display: block;
+	border-bottom: 1px solid #5286b4;
+	color: #ffffff;
+	text-decoration:none;
+	background : #0099e2 url(../images/menu_arrow.jpg) no-repeat left center;
+	font-family: Arial, sans-serif;
+	font-size: 10px;
+}
+
+div.sdmenu div a:hover {
+	background : #0099e2 url(../images/menu_arrow.jpg) no-repeat left center;
+	color: #004c90;
+	text-decoration: none;
+	font-family: Arial, sans-serif;
+	font-size: 10px;
+}
+div.sdmenu div .act {
+	background : #0099e2 url(../images/menu_arrow.jpg) no-repeat left center;
+	color: #004c90;
+	text-decoration: none;
+	font-family: Arial, sans-serif;
+	font-size: 10px;
+}
+.leftmenu {
+	width:146px;
+	float:left;
+	padding: 8px 12px;
+	background: url(../images/left_menu_bg.jpg) repeat-x 10px center;
+	height:15px;
+}
+.leftmenu_link {
+	font-weight: bold;
+	color: white;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px; 
+	color:#ffffff;
+	text-decoration:none;
+}
+.leftmenu_link:hover {font-weight: bold;
+	color: white;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px; 
+	color:#fbd956;
+	text-decoration:none;
+}
+.leftmenu_link_act {font-weight: bold;
+	color: white;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px; 
+	color:#fbd956;
+	text-decoration:none;
+}

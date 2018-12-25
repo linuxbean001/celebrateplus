@@ -1,0 +1,188 @@
+/*-------------------------------
+Main Layout StyleSheet
+
+Version 1.0
+Author: James Purves
+Email: james@unstuckdesign.com
+Website: http://www.unstuckdesign.com
+---------------------------------
+Default Styles
+---------------------------------*/
+*{ 
+margin:auto;
+padding:0px;
+}
+
+*html {
+margin:0px; 
+padding:0px;
+}
+
+
+
+body {
+height: 100%;
+background-color:#f6f3e8;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+color:#ffffff;
+font-size:65%;
+}
+
+
+
+
+/*--------------------------
+Footer
+--------------------------*/
+#footer-container{
+background: url(../i/footerslice.gif) repeat-x top center;
+clear: both;
+width:100%;
+}
+
+#footer{
+width:800px; 
+margin:0 auto;
+padding: 0;
+text-align:center;
+height:191px;
+position:relative;
+}
+
+
+
+#footer_primary {
+float:left; 
+width:220px;
+}
+
+#footer_primary span a,
+#footer_secondary span a{
+margin: 10px 0 0 0;
+display:block;
+}
+
+#footer_primary div span {
+display:block;
+}
+
+#footer_primary div {
+display:block;
+float:left;
+margin: 10px 8px 40px 0;
+/margin: 10px 3px 40px 0;
+}
+
+#footer_secondary {
+float:left; 
+width:220px;
+margin: 0 22px 60px 38px;
+}
+
+ul#footer_tertiary {
+float:left; 
+width:200px;
+list-style: none;
+}
+/*--------------------------
+Footer Text
+--------------------------*/
+
+#footer_text{
+position:absolute;
+top:150px;
+left:0px;
+width:100%;
+float:left;
+}
+
+
+#footer_text ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	
+}
+
+#footer_text ul li {
+	display: block;
+	float: left;
+	margin: 0;
+	padding: 0;
+	
+}
+
+
+
+#footer_text ul li#footerlast  {
+	width: 400px;	
+	height: 15px;
+	padding: 5px 0 0 5px;
+	text-align:left;
+	text-decoration: none;
+	color: #999999;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 1.0em;
+	border: 0;
+	float:left;
+}
+#footer_text ul li#footerlast1  {
+	width: 345px;	
+	height: 15px;
+	padding: 5px 0 0 5px;
+	text-align:right;
+	text-decoration: none;
+	color: #999999;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 1.0em;
+	border: 0;
+	float:left;
+}
+
+
+
+
+
+
+
+
+
+
+#kwicks_container { 
+	height: 189px;
+	text-align:center;
+}
+#kwicks {
+	position: relative;
+}
+
+#kwicks .kwick {
+	float: left;
+	display: block;
+	width: 155px;
+	height: 189px;
+	margin-top:2px;
+	text-align:center;
+}
+#kwicks .kwick1 {
+	float: left;
+	display: block;
+	width: 1px;
+	height: 189px;
+	margin-top:2px;
+	background-image:url(../images/i/img_bdr.jpg);
+	background-position:left top;
+	background-repeat:no-repeat;
+}
+
+#kwick_red {background-color: red; background-image:url(../images/i/menus.jpg); text-align:right; margin-left:13px; }
+#kwick_orange {background-color: orange; background-image:url(../images/i/experts.jpg); text-align:right; }
+#kwick_yellow {background-color: yellow; background-image:url(../images/i/recipes.jpg); text-align:right; }
+#kwick_green {background-color: green; background-image:url(../images/i/tools.jpg); text-align:right; }
+#kwick_blue {background-color: blue; background-image:url(../images/i/exercise.jpg); text-align:right; }
+#kwick_meen { text-align:left; }
+#kwick_indigo {background-color: indigo; color: #fff; }
+#kwick_violet {background-color: violet;}
+
+
+

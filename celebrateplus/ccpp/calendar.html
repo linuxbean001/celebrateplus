@@ -1,0 +1,136 @@
+<html>
+  <head>
+    <title>Date Selector</title>
+    <script language="JavaScript"><!--
+// {{{ y2k()
+
+function y2k(number)
+{
+    return (number < 1000) ? number + 1900 : number; 
+}
+
+// }}}
+// {{{ _rgb2hex()
+
+function _rgb2hex(red,green,blue) 
+{
+    var html_red = red.toString(16).toUpperCase();
+    var html_green = green.toString(16).toUpperCase();
+    var html_blue = blue.toString(16).toUpperCase();
+    if (html_red.length == 1) {
+        html_red = "0" + html_red
+    }
+
+    if (html_green.length == 1) {
+        html_green = "0" + html_green
+    }
+
+    if (html_blue.length == 1) {
+        html_blue = "0" + html_blue
+    }
+
+    return '#' + html_red + html_green + html_blue;
+}
+ 
+// }}}
+// {{{ _hex2rgb()
+
+function _hex2rgb(htmlcode) 
+{
+    var htmlcode = htmlcode.replace(/#/,'');
+    var rgb = new Array();
+    rgb["red"] = parseInt(htmlcode.substr(0,2),16);
+    rgb["green"] = parseInt(htmlcode.substr(2,2),16);
+    rgb["blue"] = parseInt(htmlcode.substr(4,2),16);
+    return rgb;
+}
+ 
+// }}}
+// {{{ getDarkColor()
+
+function getDarkColor(htmlcode) 
+{
+    var decimalcolor = _hex2rgb(htmlcode);
+    decimalcolor["red"] = Math.max(0,decimalcolor["red"]-40);
+    decimalcolor["green"] = Math.max(0,decimalcolor["green"]-40);
+    decimalcolor["blue"] = Math.max(0,decimalcolor["blue"]-40);
+    return _rgb2hex(decimalcolor["red"],decimalcolor["green"],decimalcolor["blue"]);
+}
+
+// }}}
+
+// get the reference to the target element and setup the date
+var targetDateField = window.opener.calendarTarget;
+var dateString = targetDateField.value;
+
+if (dateString != '') {
+    var today = new Date(dateString.substring(6,10), dateString.substring(0,2) - 1, dateString.substring(3,5));
+    if ((today == "Invalid Date") || (isNaN(today))) {
+        var today = new Date();
+    }
+}
+else {
+    var today = new Date();
+}
+
+var day = today.getDate();
+var year  = y2k(today.getYear());
+var month = today.getMonth();
+
+var currentDay = day;
+var currentYear = year;
+var currentMonth = month;
+
+if (typeof(window.opener.calendarStartMonday) == 'undefined') {
+    var calendarStartMonday = false;
+}
+else {
+    calendarStartMonday = window.opener.calendarStartMonday ? true : false;
+}
+
+// get the date format
+if (typeof(window.opener.calendarFormat) == 'undefined') {
+    var calendarFormat = 'm/d/y';
+}
+// we are doing on a leap of faith here that the user has MM DD YYYY only in the format
+else {
+    calendarFormat = window.opener.calendarFormat;
+}
+
+// get the calendarColors variable and setup the colors
+if (typeof(window.opener.calendarColors) == 'undefined') {
+    alert('Please configure the colors by setting the calendarColors array!');
+    window.close();
+}
+
+// grab the color settings
+var calendarColors = window.opener.calendarColors;
+// set defaults for the selected date to be a darker color
+if (typeof(calendarColors['dateSelectedBgColor']) == 'undefined') {
+    calendarColors['dateSelectedBgColor'] = getDarkColor(calendarColors['dateBgColor']);
+}
+
+if (typeof(calendarColors['dateSelectedColor']) == 'undefined') {
+    calendarColors['dateSelectedColor'] = calendarColors['dateColor'];
+}
+
+// names and days arrays for use in making the calendar month display
+var names = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+// we have two sunday to accomodate for calendars starting on monday
+var weekdays = new Array('S', 'M', 'T', 'W', 'T', 'F', 'S', 'S');
+var days  = new Array(31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31);
+
+//images
+var right_still = "arrows_r_still.gif"
+var right_anim = "arrows_r_anim.gif"
+var left_still = "arrows_l_still.gif"
+var left_anim = "arrows_l_anim.gif"
+
+//-->
+    </script>
+  </head>
+  <frameset frameborder="0" framespacing="0" ROWS="100%,*">
+    <frame scrolling="no" frameborder="0" marginheight="0" marginwidth="0" name="cal" noresize src="calendar_body.html">
+  <frame src="UntitledFrame-3"></frameset><noframes></noframes>
+</html>
+

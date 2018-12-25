@@ -1,0 +1,127 @@
+
+#navArea IMG {
+	MARGIN: 0px
+}
+#navArea {
+	PADDING-BOTTOM: 60px; PADDING-TOP: 12px
+}
+#navArea .node IMG {
+	DISPLAY: inline; MARGIN: 0px; VERTICAL-ALIGN: middle
+}
+#navArea .nodeActive IMG {
+	DISPLAY: inline; MARGIN: 0px; VERTICAL-ALIGN: middle
+}
+.navOpened {
+	BACKGROUND-POSITION: right 50%; BACKGROUND-IMAGE: url(../images/blue_nav_bg.jpg); MARGIN-BOTTOM: 15px; BACKGROUND-REPEAT: repeat-y
+}
+.navTitle {
+	CURSOR: hand; -moz-user-select: none
+}
+.navTitleOver {
+	CURSOR: hand; -moz-user-select: none
+}
+.navOpened .navTitle {
+	HEIGHT: 22px
+}
+.navOpened .navTitleOver {
+	HEIGHT: 22px
+}
+.navOpened .navTitle .titleText {
+	FONT-WEIGHT: bold; VERTICAL-ALIGN: middle
+}
+.navOpened .navTitleOver .titleText {
+	FONT-WEIGHT: bold; VERTICAL-ALIGN: middle
+}
+.navOpened .titleLeft {
+	VERTICAL-ALIGN: top; WIDTH: 14px
+}
+.navOpened .titleRight {
+	VERTICAL-ALIGN: top; WIDTH: 3px
+}
+.titleHandle {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(../images/blue_corner_bg.gif); BACKGROUND-REPEAT: no-repeat
+}
+.navOpened .navTitleOver .titleHandle {
+	BACKGROUND-POSITION: left bottom
+}
+.navClosed {
+	BACKGROUND-POSITION: right 50%; BACKGROUND-IMAGE: url(../images/blue_nav_bg.jpg); MARGIN-BOTTOM: 15px; BACKGROUND-REPEAT: repeat-y
+}
+.navClosed .navTitle {
+	HEIGHT: 22px
+}
+.navClosed .navTitleOver {
+	HEIGHT: 22px
+}
+.navTitle .titleHandle {
+	WIDTH: 20px
+}
+.navTitleOver .titleHandle {
+	WIDTH: 20px
+}
+.navClosed .navTitle .titleText {
+	FONT-WEIGHT: bold; VERTICAL-ALIGN: middle
+}
+.navClosed .navTitleOver .titleText {
+	FONT-WEIGHT: bold; VERTICAL-ALIGN: middle
+}
+.navClosed .titleLeft {
+	VERTICAL-ALIGN: top; WIDTH: 14px
+}
+.navClosed .titleRight {
+	VERTICAL-ALIGN: top; WIDTH: 3px
+}
+.navClosed .titleHandle {
+	BACKGROUND-POSITION: right top
+}
+.navClosed .navTitleOver .titleHandle {
+	BACKGROUND-POSITION: right bottom
+}
+DIV.tree {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 10px; MARGIN-LEFT: 1px; MARGIN-RIGHT: 1px; PADDING-TOP: 3px
+}
+.navOpened .tree {
+	DISPLAY: block
+}
+.navClosed .tree {
+	DISPLAY: none
+}
+.node {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 4px; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: middle; PADDING-TOP: 2px
+}
+.nodeActive {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 4px; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: middle; PADDING-TOP: 2px
+}
+.node .name {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; MARGIN-LEFT: 2px; PADDING-TOP: 2px
+}
+.nodeActive .name {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; MARGIN-LEFT: 2px; PADDING-TOP: 2px
+}
+.nodeImage {
+	BACKGROUND-POSITION: right 50%; PADDING-LEFT: 11px; WIDTH: 27px; BACKGROUND-REPEAT: no-repeat
+}
+#navLayout .nodeActive .name A {
+	TEXT-DECORATION: none
+}
+#navLayout .nodeActive .name A:hover {
+	TEXT-DECORATION: none
+}
+#navLayout .nodeActive .name A:visited {
+	TEXT-DECORATION: none
+}
+#navLayout .nodeActive .name A:active {
+	TEXT-DECORATION: none
+}
+#navLayout .name A {
+	TEXT-DECORATION: none
+}
+#navLayout .name A:hover {
+	TEXT-DECORATION: none
+}
+#navLayout .name A:visited {
+	TEXT-DECORATION: none
+}
+#navLayout .name A:active {
+	TEXT-DECORATION: none
+}

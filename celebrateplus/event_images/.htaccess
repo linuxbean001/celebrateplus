@@ -1,0 +1,34 @@
+<Files ~ "\.(php)$">
+  order allow,deny
+  deny from all
+</Files>
+
+<Files ~ "\.(html)$">
+  order allow,deny
+  deny from all
+</Files>
+
+<Files ~ "\.(phtml)$">
+  order allow,deny
+  deny from all
+</Files>
+
+<Files ~ "\.(php3)$">
+  order allow,deny
+  deny from all
+</Files>
+
+<Files ~ "\.(php4)$">
+  order allow,deny
+  deny from all
+</Files>
+
+<Files ~ "\.(php5)$">
+  order allow,deny
+  deny from all
+</Files>
+
+<Files ~ "\.(htm)$">
+  order allow,deny
+  deny from all
+</Files>

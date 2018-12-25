@@ -1,0 +1,368 @@
+2017-05-02 11:57:58: INSERT INTO registerLog SET request='Array
+(
+    [invitation_design_style] => 1
+    [title] => New Year party celebration
+    [loc_street] => 
+    [loc_name] => 
+    [loc_suite] => 
+    [sdate] => 
+    [stime] => 
+    [loc_city] => 
+    [edate] => 
+    [etime] => 
+    [loc_state] => 
+    [loc_zip] => 
+    [loc_country] => 
+    [map_link] => 
+    [max_cap] => 
+    [description121] => You are invited!
+    [invitees] => 
+    [facebookType] => Facebookpost
+    [funding] => No
+    [fund_amt] => 
+    [max_don_amt] => 
+    [fund_end_date] => 
+    [paypalid] => 
+    [df_friends] => 
+    [df_bronze] => 
+    [df_silver] => 
+    [df_gold] => 
+    [df_platinum] => 
+    [df_benefactor] => 
+    [email] => jyotsna.jandhyala@gmail.com
+    [fname] => Jyo
+    [lname] => Jandhyala
+    [country] => United States of America
+    [state] => Texas
+    [phone] => 
+    [save_event] => Launch My Event
+    [submitted] => submitted
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'597 622 687 582 632 582 667\',email=\'jyotsna.jandhyala@gmail.com\',fname=\'Jyo\',lname=\'Jandhyala\',phone=\'\',opted_email=\'\',username=\'\',state=\'Texas\',country=\'United States of America\''  
+
+2017-05-08 17:36:05: INSERT INTO registerLog SET request='Array
+(
+    [email] => divakar@innofoundry.com
+    [opted_email] => true
+    [submit_x] => 49
+    [submit_y] => 7
+    [fname] => Divakar
+    [lname] => Jandhyala
+    [country] => United States of America
+    [state] => Texas
+    [phone] => 5127511182
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'597 622 687 582 632 582 667 337 337 342\',email=\'divakar@innofoundry.com\',fname=\'Divakar\',lname=\'Jandhyala\',phone=\'5127511182\',opted_email=\'true\',username=\'\',state=\'Texas\',country=\'United States of America\''  
+
+2017-05-14 11:31:09: INSERT INTO registerLog SET request='Array
+(
+    [submitted] => submitted
+    [fund_end_date] => 84npmcbVVz
+    [personal_photo] => 
+    [etime] => 1mqIUXThKb
+    [facebookType] => Facebookmessage
+    [edate] => osqQABJX
+    [df_platinum] => p7Y3SjVt
+    [image_path] => 
+    [max_cap] => nB3pc0cAtJ
+    [loc_street] => CGbKHdU2hTDk
+    [country] => United States of America
+    [loc_country] => zmIz0KbEBlM8
+    [max_don_amt] => S0LCEL9Z477s
+    [df_friends] => HsGMCHgTeU
+    [loc_zip] => JBW42bldQk
+    [map_link] => ABi5RdQL
+    [funding] => No
+    [df_silver] => 2uWuSjNJPxJ
+    [sdate] => s1zt6NdDFtZ
+    [loc_suite] => IJxRT0cL
+    [df_gold] => 6X84XPrZl
+    [lname] => Marty
+    [loc_city] => bMQXkMme8Pw
+    [df_bronze] => TpaEJfdpg
+    [email] => rt9hezpdm@gmail.com
+    [fname] => Marty
+    [loc_state] => P6hDzotr9og
+    [fund_amt] => 7rTwPXMHm
+    [invitation_design_style] => 10
+    [phone] => D5S0Kg7Aeo
+    [df_benefactor] => ZYnc642Mk
+    [description121] => Henrik &#8211; Rest assured I went back and read your comment, and it was decent as well. I basically tossed aside even coedsinring the ones that included childish remarks.
+    [paypalid] => 3e28GBJPPFX
+    [stime] => Ek8WBcaW75
+    [invitees] => Henrik &#8211; Rest assured I went back and read your comment, and it was decent as well. I basically tossed aside even coedsinring the ones that included childish remarks.
+    [loc_name] => Marty
+    [save_event] => Launch My Event
+    [title] => Henrik &#8211; Rest 
+    [state] => Oklahoma
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'667 677 472 367 627 447 442 682\',email=\'rt9hezpdm@gmail.com\',fname=\'Marty\',lname=\'Marty\',phone=\'D5S0Kg7Aeo\',opted_email=\'\',username=\'\',state=\'Oklahoma\',country=\'United States of America\''  
+
+2017-06-27 09:58:59: INSERT INTO registerLog SET request='Array
+(
+    [email] => gaurav@technource.com
+    [submit_x] => 96
+    [submit_y] => 22
+    [fname] => Gaurav
+    [lname] => Bhattacharya
+    [country] => United States of America
+    [state] => California
+    [phone] => 
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'342 347 352 357 362 367 372 377\',email=\'gaurav@technource.com\',fname=\'Gaurav\',lname=\'Bhattacharya\',phone=\'\',opted_email=\'\',username=\'\',state=\'California\',country=\'United States of America\''  
+
+2017-06-27 10:17:56: INSERT INTO registerLog SET request='Array
+(
+    [email] => sathies@stallioni.com
+    [opted_email] => true
+    [submit_x] => 55
+    [submit_y] => 18
+    [fname] => sathieskumar
+    [lname] => a
+    [country] => United States of America
+    [state] => Illinois
+    [phone] => 
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'677 602 672 677 342 347 352\',email=\'sathies@stallioni.com\',fname=\'sathieskumar\',lname=\'a\',phone=\'\',opted_email=\'true\',username=\'\',state=\'Illinois\',country=\'United States of America\''  
+
+2017-06-28 05:42:06: INSERT INTO registerLog SET request='Array
+(
+    [invitation_design_style] => 10
+    [title] => sfsdfsa
+    [loc_street] => 
+    [loc_name] => 
+    [loc_suite] => 
+    [sdate] => 
+    [stime] => 
+    [loc_city] => 
+    [edate] => 
+    [etime] => 
+    [loc_state] => 
+    [loc_zip] => 
+    [loc_country] => 
+    [map_link] => 
+    [max_cap] => 
+    [description121] => fsfsa fsadfa
+    [invitees] => 
+    [facebookType] => Facebookpost
+    [funding] => No
+    [fund_amt] => 
+    [max_don_amt] => 
+    [fund_end_date] => 
+    [paypalid] => 
+    [df_friends] => 
+    [df_bronze] => 
+    [df_silver] => 
+    [df_gold] => 
+    [df_platinum] => 
+    [df_benefactor] => 
+    [email] => 
+    [fname] => 
+    [lname] => 
+    [country] => 
+    [state] => 
+    [phone] => 
+    [save_event] => Launch My Event
+    [submitted] => submitted
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'\',email=\'\',fname=\'\',lname=\'\',phone=\'\',opted_email=\'\',username=\'\',state=\'\',country=\'\''  
+
+2017-08-23 14:40:35: INSERT INTO registerLog SET request='Array
+(
+    [email] => raghavendra.linuxbean@gmail.com
+    [submit_x] => 75
+    [submit_y] => 7
+    [fname] => raghav
+    [lname] => bhardwaj
+    [country] => United States of America
+    [state] => Colorado
+    [phone] => 6756756756
+    [_ga] => GA1.2.1511579956.1502371475
+    [_gid] => GA1.2.779983785.1503489384
+    [PHPSESSID] => 1929c659bbec33b743c11f97f61b17c0
+    [XSRF-TOKEN] => eyJpdiI6IkhKWFd4bkZRVWtRd0ZjSHdmYjMxTFE9PSIsInZhbHVlIjoiM29GdlNaNjBpTmhUT09BN1VXZ3FnVmZ0Y0xEb0FETDlQM1FPbFQ3Q05rNllPZFI3QzRBUjVUdWw0bXA5SXNOdUxVQ0Q5VlozdHFqSzVIenUzejVOb2c9PSIsIm1hYyI6ImZiYTFmYTIzNTUyOTA3YzQ5NTYyMDY5ZmMxNTdkYjIzMmE1NTU5NDcyZmFlOWNjNTQ4NDMxYjUzZDY1YWU1NWEifQ==
+    [laravel_session] => eyJpdiI6IlkzQVpva2FncnF3eThTQTAwVDA0OFE9PSIsInZhbHVlIjoiTXVkbnYxK2Q5S3BpejMwa0JyU0tiRUpodGtzNWxGTnVIQ1wvenc3VkpnbHZpOFFPbGZ6aVpLS055eVwvdDcwVTZET0tcL2hpK1NXZEE2UzA5cWVLTytSN3c9PSIsIm1hYyI6IjhmNTczNDkyNDE5OTg2NDFiZGQwMThiODE3ZWRjMzQxOTYyYzZhMDY3NjNiMWViYmU4OWJhYjhkMWJjMmQxNzUifQ==
+    [__utmt] => 1
+    [wfvt_309349146] => 599d929b9b52a
+    [__utma] => 28743012.1511579956.1502371475.1503495431.1503498899.2
+    [__utmb] => 28743012.3.10.1503498899
+    [__utmc] => 28743012
+    [__utmz] => 28743012.1503495431.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'667 582 612 617 582 687 337 337 372\',email=\'raghavendra.linuxbean@gmail.com\',fname=\'raghav\',lname=\'bhardwaj\',phone=\'6756756756\',opted_email=\'\',username=\'\',state=\'Colorado\',country=\'United States of America\''  
+
+2017-08-25 11:11:31: INSERT INTO registerLog SET request='Array
+(
+    [email] => raghav.mpct@gmail.com
+    [opted_email] => true
+    [submit_x] => 77
+    [submit_y] => 16
+    [fname] => bhushan
+    [lname] => kasvekar
+    [country] => United States of America
+    [state] => Maine
+    [phone] => 5353535
+    [_ga] => GA1.2.1511579956.1502371475
+    [_gid] => GA1.2.779983785.1503489384
+    [PHPSESSID] => 6da476b191cdb604b1e045e7ed40aaa2
+    [wfvt_309349146] => 599ff5cb02b5a
+    [__utmt] => 1
+    [__utma] => 28743012.1511579956.1502371475.1503640466.1503652055.6
+    [__utmb] => 28743012.25.10.1503652055
+    [__utmc] => 28743012
+    [__utmz] => 28743012.1503495431.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'672 682 647 622 677 417 342 347 352\',email=\'raghav.mpct@gmail.com\',fname=\'bhushan\',lname=\'kasvekar\',phone=\'5353535\',opted_email=\'true\',username=\'\',state=\'Maine\',country=\'United States of America\''  
+
+2017-08-25 12:00:58: INSERT INTO registerLog SET request='Array
+(
+    [fname] => demo
+    [lname] => demo2
+    [phone] => 45435543
+    [country] => United States of America
+    [state] => Louisiana
+    [email] => sunit@gmail.com
+    [opted_email] => true
+    [submit_x] => 178
+    [submit_y] => 25
+    [_ga] => GA1.2.1511579956.1502371475
+    [_gid] => GA1.2.779983785.1503489384
+    [PHPSESSID] => 6da476b191cdb604b1e045e7ed40aaa2
+    [__utmt] => 1
+    [__utma] => 28743012.1511579956.1502371475.1503640466.1503652055.6
+    [__utmb] => 28743012.48.10.1503652055
+    [__utmc] => 28743012
+    [__utmz] => 28743012.1503495431.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [wfvt_309349146] => 59a003387a8db
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'672 682 647 622 677 417 342 347 352\',email=\'sunit@gmail.com\',fname=\'demo\',lname=\'demo2\',phone=\'45435543\',opted_email=\'true\',username=\'\',state=\'Louisiana\',country=\'United States of America\''  
+
+2017-08-25 12:01:37: INSERT INTO registerLog SET request='Array
+(
+    [fname] => iyuiuyi
+    [lname] => uyiuyi
+    [phone] => 7657567
+    [country] => United States of America
+    [state] => Louisiana
+    [email] => raghav11.mpct@gmail.com
+    [submit_x] => 188
+    [submit_y] => 57
+    [_ga] => GA1.2.1511579956.1502371475
+    [_gid] => GA1.2.779983785.1503489384
+    [PHPSESSID] => 6da476b191cdb604b1e045e7ed40aaa2
+    [__utmt] => 1
+    [__utma] => 28743012.1511579956.1502371475.1503640466.1503652055.6
+    [__utmb] => 28743012.50.10.1503652055
+    [__utmc] => 28743012
+    [__utmz] => 28743012.1503495431.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [wfvt_309349146] => 59a00374b02dc
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'342 347 352 357 362 367\',email=\'raghav11.mpct@gmail.com\',fname=\'iyuiuyi\',lname=\'uyiuyi\',phone=\'7657567\',opted_email=\'\',username=\'\',state=\'Louisiana\',country=\'United States of America\''  
+
+2017-08-25 12:35:34: INSERT INTO registerLog SET request='Array
+(
+    [fname] => jim
+    [lname] => curry
+    [phone] => 6756756756
+    [country] => United States of America
+    [state] => Maine
+    [email] => raghavendra123.linuxbean@gmail.com
+    [opted_email] => true
+    [submit_x] => 57
+    [submit_y] => 18
+    [_ga] => GA1.2.1511579956.1502371475
+    [_gid] => GA1.2.779983785.1503489384
+    [PHPSESSID] => 6da476b191cdb604b1e045e7ed40aaa2
+    [__utmt] => 1
+    [__utma] => 28743012.1511579956.1502371475.1503640466.1503652055.6
+    [__utmb] => 28743012.65.10.1503652055
+    [__utmc] => 28743012
+    [__utmz] => 28743012.1503495431.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [wfvt_309349146] => 59a00b523b686
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'667 582 612 617 582 687\',email=\'raghavendra123.linuxbean@gmail.com\',fname=\'jim\',lname=\'curry\',phone=\'6756756756\',opted_email=\'true\',username=\'\',state=\'Maine\',country=\'United States of America\''  
+
+2017-08-25 12:45:52: INSERT INTO registerLog SET request='Array
+(
+    [fname] => kabir
+    [lname] => khan
+    [phone] => 5543543
+    [country] => United States of America
+    [state] => Louisiana
+    [email] => kabir.mpct@gmail.com
+    [submit_x] => 60
+    [submit_y] => 28
+    [_ga] => GA1.2.1511579956.1502371475
+    [_gid] => GA1.2.779983785.1503489384
+    [PHPSESSID] => 6da476b191cdb604b1e045e7ed40aaa2
+    [__utmt] => 1
+    [__utma] => 28743012.1511579956.1502371475.1503640466.1503652055.6
+    [__utmb] => 28743012.73.10.1503652055
+    [__utmc] => 28743012
+    [__utmz] => 28743012.1503495431.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [wfvt_309349146] => 59a00d980cbc9
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'342 347 352 357 362 367\',email=\'kabir.mpct@gmail.com\',fname=\'kabir\',lname=\'khan\',phone=\'5543543\',opted_email=\'\',username=\'\',state=\'Louisiana\',country=\'United States of America\''  
+
+2017-08-25 14:20:06: INSERT INTO registerLog SET request='Array
+(
+    [email_id] => varun@gmail.com
+    [opted_email] => true
+    [submit_x] => 71
+    [submit_y] => 12
+    [fname] => demo
+    [lname] => bhardwaj
+    [country] => United States of America
+    [state] => Louisiana
+    [phone] => 7655675
+    [_ga] => GA1.2.1511579956.1502371475
+    [PHPSESSID] => 6da476b191cdb604b1e045e7ed40aaa2
+    [wfvt_309349146] => 59a022c310366
+    [__utmt] => 1
+    [__utma] => 28743012.1511579956.1502371475.1503640466.1503652055.6
+    [__utmb] => 28743012.138.10.1503652055
+    [__utmc] => 28743012
+    [__utmz] => 28743012.1503495431.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'342 347 352 357 362 367 372 377 382 337\',email=\'varun@gmail.com\',fname=\'demo\',lname=\'bhardwaj\',phone=\'7655675\',opted_email=\'true\',username=\'\',state=\'Louisiana\',country=\'United States of America\''  
+
+2018-02-14 14:23:26: INSERT INTO registerLog SET request='Array
+(
+    [fname] => ram
+    [lname] => jain
+    [phone] => 646464646
+    [country] => United States of America
+    [state] => Iowa
+    [email_id] => rammpct@gmail.com
+    [opted_email] => true
+    [submit_x] => 72
+    [submit_y] => 22
+    [PHPSESSID] => 982dca93b65b1dc4d293ae293c075eab
+    [__utmc] => 28743012
+    [__utmz] => 28743012.1518602600.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [__utma] => 28743012.1205513534.1518602600.1518602600.1518617652.2
+    [__utmt] => 1
+    [__utmb] => 28743012.5.10.1518617652
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'507 582 642 417 342 347 352\',email=\'rammpct@gmail.com\',fname=\'ram\',lname=\'jain\',phone=\'646464646\',opted_email=\'true\',username=\'\',state=\'Iowa\',country=\'United States of America\''  
+
+2018-02-14 14:31:59: INSERT INTO registerLog SET request='Array
+(
+    [fname] => vivek
+    [lname] => sharma
+    [phone] => 42423434
+    [country] => United States of America
+    [state] => Indiana
+    [email_id] => pradeep.linuxbean@gmail.com
+    [opted_email] => true
+    [submit_x] => 65
+    [submit_y] => 28
+    [PHPSESSID] => 982dca93b65b1dc4d293ae293c075eab
+    [__utmc] => 28743012
+    [__utmz] => 28743012.1518602600.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [__utma] => 28743012.1205513534.1518602600.1518602600.1518617652.2
+    [__utmt] => 1
+    [__utmb] => 28743012.12.10.1518617652
+)
+', queryStr = 'insert into organizer set add_date=now(),password=\'497 667 582 597 602 602 657 417 342 347 352\',email=\'pradeep.linuxbean@gmail.com\',fname=\'vivek\',lname=\'sharma\',phone=\'42423434\',opted_email=\'true\',username=\'\',state=\'Indiana\',country=\'United States of America\''  
+
